@@ -115,19 +115,9 @@
     "logo": "https://i.imgur.com/ctlcdOw.png"
   },
   {
-    "id": "dhoom-music",
-    "name": "Dhoom Music",
-    "logo": "https://i.imgur.com/ai9gpjy.png"
-  },
-  {
     "id": "doctor-live",
     "name": "Doctor Live",
     "logo": "https://i.imgur.com/D6cMaVs.png"
-  },
-  {
-    "id": "e-24",
-    "name": "E 24",
-    "logo": "https://i.imgur.com/vCaPNTe.png"
   },
   {
     "id": "goa365",
@@ -188,11 +178,6 @@
     "id": "max-middle-east",
     "name": "Max Middle East",
     "logo": "https://i.imgur.com/LBICKI5.png"
-  },
-  {
-    "id": "mh-1-music",
-    "name": "Mh 1 Music",
-    "logo": "https://i.imgur.com/Pi6ldXm.png"
   },
   {
     "id": "mh-one-shraddha",
@@ -260,11 +245,6 @@
     "logo": "https://i.imgur.com/Ss1OBn1.png"
   },
   {
-    "id": "sadhna",
-    "name": "Sadhna",
-    "logo": "https://i.imgur.com/x13iiuI.png"
-  },
-  {
     "id": "samachar-plus",
     "name": "Samachar Plus",
     "logo": "https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg"
@@ -320,11 +300,6 @@
     "logo": "https://i.imgur.com/vCFdZny.png"
   },
   {
-    "id": "tarang-music",
-    "name": "Tarang Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png"
-  },
-  {
     "id": "total-bhakti",
     "name": "Total Bhakti",
     "logo": "https://i.imgur.com/LPwRdmF.png"
@@ -340,28 +315,8 @@
     "logo": "https://i.postimg.cc/1tMhRdd1/travelxp.png"
   },
   {
-    "id": "vedic",
-    "name": "Vedic",
-    "logo": "https://i.imgur.com/IuuzdLq.png"
-  },
-  {
     "id": "vyas-nic",
     "name": "Vyas NIC",
     "logo": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg"
-  },
-  {
-    "id": "zb-bhakti",
-    "name": "ZB Bhakti",
-    "logo": "https://i.imgur.com/MBaKNPC.jpeg"
-  },
-  {
-    "id": "zb-cinema",
-    "name": "ZB Cinema",
-    "logo": "https://i.imgur.com/kUg6WSk.jpeg"
-  },
-  {
-    "id": "zb-music",
-    "name": "ZB Music",
-    "logo": "https://i.imgur.com/k1nb8u1.jpeg"
   }
 ]

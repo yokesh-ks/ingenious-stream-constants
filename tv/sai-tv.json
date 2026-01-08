@@ -4,7 +4,7 @@
   "categoryId": "entertainment",
   "streamUrl": "https://account30.livebox.co.in/saitvhls/live.m3u8",
   "tvgId": "SaiTV.in@SD",
-  "isActive": true,
+  "isActive": false,
   "language": "hindi",
   "logo": "https://i.imgur.com/3e0tsrx.png"
 }

@@ -10,8 +10,9 @@
     "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
-    "id": "dd-podhigai",
-    "name": "DD Podhigai"
+    "id": "chithiram",
+    "name": "Chithiram",
+    "logo": "https://i.imgur.com/xv9cWSh.png"
   },
   {
     "id": "dd-tamil",
@@ -32,11 +33,6 @@
     "id": "kalaignar-murasu",
     "name": "Kalaignar Murasu",
     "logo": "https://i.imgur.com/ZDXVWVQ.png"
-  },
-  {
-    "id": "kalaignar-tv",
-    "name": "Kalaignar TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
   },
   {
     "id": "madhimugam-tv",
@@ -67,11 +63,6 @@
     "id": "mntv",
     "name": "MNTV",
     "logo": "https://i.imgur.com/cFNw4Af.png"
-  },
-  {
-    "id": "moon-tv",
-    "name": "Moon TV",
-    "logo": "https://i.imgur.com/3l25EZI.png"
   },
   {
     "id": "news-7-tamil",

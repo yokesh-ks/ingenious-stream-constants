@@ -4,7 +4,7 @@
   "categoryId": "entertainment",
   "streamUrl": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8",
   "tvgId": "ZeeBiharJharkhand.in@SD",
-  "isActive": true,
+  "isActive": false,
   "language": "hindi",
   "logo": "https://i.imgur.com/e26mQ7x.png"
 }
