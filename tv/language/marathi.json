@@ -2,26 +2,31 @@
   {
     "id": "fakt-marathi",
     "name": "Fakt Marathi",
+    "streamUrl": "https://cdn-6.pishow.tv/live/10002/master.m3u8",
     "logo": "https://i.imgur.com/y0VS4QN.png"
   },
   {
     "id": "ndtv-marathi",
     "name": "NDTV Marathi",
+    "streamUrl": "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png"
   },
   {
     "id": "sangeet-marathi",
     "name": "Sangeet Marathi",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sangeet_Marathi.jpg/512px-Sangeet_Marathi.jpg"
   },
   {
     "id": "shemaroo-marathi-bana",
     "name": "Shemaroo Marathi Bana",
+    "streamUrl": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/U63jUUq.png"
   },
   {
     "id": "tv9-marathi",
     "name": "TV9 Marathi",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
     "logo": "https://i.imgur.com/5AshBho.png"
   }
 ]

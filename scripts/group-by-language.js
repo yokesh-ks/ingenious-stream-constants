@@ -44,7 +44,6 @@ Object.keys(languageGroups).forEach((lang) => {
 Object.keys(languageGroups).forEach((lang) => {
   languageGroups[lang] = languageGroups[lang].map((channel) => {
     const {
-      streamUrl,
       language,
       isActive,
       tvgId,

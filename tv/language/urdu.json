@@ -2,11 +2,13 @@
   {
     "id": "4tv-news",
     "name": "4TV News",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
     "logo": "https://i.imgur.com/DSAaC2b.png"
   },
   {
     "id": "dd-urdu",
     "name": "DD Urdu",
+    "streamUrl": "https://cdn-4.pishow.tv/live/8/master.m3u8",
     "logo": "https://i.imgur.com/OiQPS34.png"
   }
 ]

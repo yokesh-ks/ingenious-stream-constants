@@ -2,20 +2,24 @@
   {
     "id": "b4u-bhojpuri",
     "name": "B4U Bhojpuri",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
     "logo": "https://i.imgur.com/NwOQUDp.png"
   },
   {
     "id": "bhojpuri-cinema",
     "name": "Bhojpuri Cinema",
+    "streamUrl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "logo": "https://i.imgur.com/ABxIO7r.jpg"
   },
   {
     "id": "filamchi-bhojpuri",
     "name": "Filamchi Bhojpuri",
+    "streamUrl": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg"
   },
   {
     "id": "oscar-movies-bhojpuri",
-    "name": "Oscar Movies Bhojpuri"
+    "name": "Oscar Movies Bhojpuri",
+    "streamUrl": "https://cdn-4.pishow.tv/live/233/master.m3u8"
   }
 ]

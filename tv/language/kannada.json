@@ -2,45 +2,54 @@
   {
     "id": "aastha-kannada",
     "name": "Aastha Kannada",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/wP9q0KZ.png"
   },
   {
     "id": "asianet-suvarna-news",
     "name": "Asianet Suvarna News",
+    "streamUrl": "https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Asianet_Suvarna_News_logo.png"
   },
   {
     "id": "ayush-tv",
     "name": "Ayush TV",
+    "streamUrl": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
     "logo": "https://i.imgur.com/PWzvp0B.png"
   },
   {
     "id": "dd-chandana",
     "name": "DD Chandana",
+    "streamUrl": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8",
     "logo": "https://i.imgur.com/MaDlMtb.png"
   },
   {
     "id": "news18-kannada",
     "name": "News18 Kannada",
+    "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8",
     "logo": "https://i.imgur.com/3XVFxdO.png"
   },
   {
     "id": "republic-kannada",
     "name": "Republic Kannada",
+    "streamUrl": "https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Republic_Kannada_logo.svg/1280px-Republic_Kannada_logo.svg.png"
   },
   {
     "id": "tv5-kannada",
     "name": "TV5 Kannada",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1526/master.m3u8",
     "logo": "https://i.imgur.com/DuZMoo6.png"
   },
   {
     "id": "tv9-kannada",
     "name": "TV9 Kannada",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8",
     "logo": "https://i.imgur.com/S3Ded70.png"
   },
   {
     "id": "zee-kannada-news",
-    "name": "Zee Kannada News"
+    "name": "Zee Kannada News",
+    "streamUrl": "https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8"
   }
 ]

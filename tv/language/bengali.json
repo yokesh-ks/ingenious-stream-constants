@@ -2,86 +2,103 @@
   {
     "id": "aakaash-aath",
     "name": "Aakaash Aath",
+    "streamUrl": "https://cdn-4.pishow.tv/live/969/master.m3u8",
     "logo": "https://i.imgur.com/rAAgfJ4.png"
   },
   {
     "id": "aamar-bangla",
     "name": "Aamar Bangla",
+    "streamUrl": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8",
     "logo": "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg"
   },
   {
     "id": "abp-ananda",
     "name": "ABP Ananda",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png"
   },
   {
     "id": "akd-calcutta-news",
     "name": "AKD Calcutta News",
+    "streamUrl": "https://cdn-2.pishow.tv/live/237/master.m3u8",
     "logo": "https://i.imgur.com/7Kl95WA.png"
   },
   {
     "id": "ananda-barta",
     "name": "Ananda Barta",
+    "streamUrl": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
     "logo": "https://i.imgur.com/yWo4RaV.jpeg"
   },
   {
     "id": "ctvn-akd-plus",
     "name": "CTVN AKD Plus",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8",
     "logo": "https://i.imgur.com/QThBcw4.png"
   },
   {
     "id": "dd-bangla",
     "name": "DD Bangla",
+    "streamUrl": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8",
     "logo": "https://i.imgur.com/RHly9gC.png"
   },
   {
     "id": "enter10-bangla",
     "name": "Enter10 Bangla",
+    "streamUrl": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
     "logo": "https://i.imgur.com/fkOxQtS.png"
   },
   {
     "id": "khushboo-bangla",
     "name": "Khushboo Bangla",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
     "logo": "https://i.imgur.com/pQRvsQu.png"
   },
   {
     "id": "mon-tv-bangla",
     "name": "MON TV Bangla",
+    "streamUrl": "https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8",
     "logo": "https://i.imgur.com/8eftKdr.jpeg"
   },
   {
     "id": "newstime-bangla",
     "name": "NewsTime Bangla",
+    "streamUrl": "https://cdn-2.pishow.tv/live/1494/master.m3u8",
     "logo": "https://i.imgur.com/ICkoQiZ.png"
   },
   {
     "id": "orange-bangla-tv",
     "name": "Orange Bangla TV",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
     "logo": "https://i.imgur.com/wjSaHj5.png"
   },
   {
     "id": "ptc-chakde",
     "name": "PTC Chakde",
+    "streamUrl": "https://cdn-1.pishow.tv/live/449/master.m3u8",
     "logo": "https://i.imgur.com/4lUwdME.png"
   },
   {
     "id": "republic-bangla",
     "name": "Republic Bangla",
+    "streamUrl": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8",
     "logo": "https://i.imgur.com/jV4vVpH.png"
   },
   {
     "id": "rupasi-bangla",
     "name": "Rupasi Bangla",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1039/master.m3u8",
     "logo": "https://i.imgur.com/ev0Vazj.png"
   },
   {
     "id": "sangeet-bangla",
     "name": "Sangeet Bangla",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
     "logo": "https://i.imgur.com/b1B73Tp.png"
   },
   {
     "id": "tv9-bangla",
     "name": "TV9 Bangla",
+    "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
     "logo": "https://i.imgur.com/86fVwfu.png"
   }
 ]

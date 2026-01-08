@@ -2,156 +2,187 @@
   {
     "id": "aastha-tamil",
     "name": "Aastha Tamil",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/YQK9ewf.png"
   },
   {
     "id": "angel-tv",
     "name": "Angel TV",
+    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
     "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
     "id": "chithiram",
     "name": "Chithiram",
+    "streamUrl": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
     "logo": "https://i.imgur.com/xv9cWSh.png"
   },
   {
     "id": "dd-tamil",
     "name": "DD Tamil",
+    "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
     "logo": "https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "id": "dheeran-tv",
     "name": "Dheeran TV",
+    "streamUrl": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
     "logo": "https://i.imgur.com/jSedjXf.png"
   },
   {
     "id": "isai-aruvi",
     "name": "Isai Aruvi",
+    "streamUrl": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
     "logo": "https://i.imgur.com/yO18FLo.png"
   },
   {
     "id": "kalaignar-murasu",
     "name": "Kalaignar Murasu",
+    "streamUrl": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8",
     "logo": "https://i.imgur.com/ZDXVWVQ.png"
   },
   {
     "id": "madhimugam-tv",
     "name": "Madhimugam TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1476/master.m3u8",
     "logo": "https://i.imgur.com/YKCo0hU.png"
   },
   {
     "id": "makkal-tv-576i",
     "name": "Makkal TV (576i)",
+    "streamUrl": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
     "logo": "https://i.imgur.com/gmnHoRu.png"
   },
   {
     "id": "malai-murasu-tv",
     "name": "Malai Murasu TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1606/master.m3u8",
     "logo": "https://i.imgur.com/M92IDhq.png"
   },
   {
     "id": "malar-tv",
     "name": "Malar TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/473/master.m3u8",
     "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png"
   },
   {
     "id": "mk-six",
     "name": "MK Six",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1253/master.m3u8",
     "logo": "https://i.imgur.com/wZjEssv.png"
   },
   {
     "id": "mntv",
     "name": "MNTV",
+    "streamUrl": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
     "logo": "https://i.imgur.com/cFNw4Af.png"
   },
   {
     "id": "news-7-tamil",
     "name": "News 7 Tamil",
+    "streamUrl": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
     "logo": "https://i.imgur.com/UjlbR4o.png"
   },
   {
     "id": "news-j",
     "name": "News J",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1279/master.m3u8",
     "logo": "https://i.imgur.com/RqeF8RR.png"
   },
   {
     "id": "news-tamil-24x7",
     "name": "News Tamil 24x7",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png"
   },
   {
     "id": "polimer-news",
     "name": "Polimer News",
+    "streamUrl": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
     "logo": "https://i.imgur.com/CxcuvXX.png"
   },
   {
     "id": "polimer-tv",
     "name": "Polimer TV",
+    "streamUrl": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
     "logo": "https://i.imgur.com/BTYagXd.png"
   },
   {
     "id": "puthiya-thalaimurai",
     "name": "Puthiya Thalaimurai",
+    "streamUrl": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8",
     "logo": "https://i.imgur.com/Hgp4sQq.png"
   },
   {
     "id": "raj-tv",
     "name": "Raj TV",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8",
     "logo": "https://i.imgur.com/4oF38ei.png"
   },
   {
     "id": "sana-plus",
     "name": "Sana Plus",
+    "streamUrl": "https://galaxyott.live/hls/sanaplus.m3u8",
     "logo": "https://i.imgur.com/N6tKUZv.png"
   },
   {
     "id": "sirippoli-tv",
     "name": "Sirippoli TV",
+    "streamUrl": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
     "logo": "https://i.imgur.com/nsplwFc.png"
   },
   {
     "id": "sun-tv",
     "name": "Sun TV",
+    "streamUrl": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8",
     "logo": "https://i.imgur.com/Z0HJi56.png"
   },
   {
     "id": "suriyan-tv",
     "name": "Suriyan TV",
+    "streamUrl": "https://stream.galaxyott.live/live/suriyantv/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg"
   },
   {
     "id": "tamilan-tv",
     "name": "Tamilan TV",
+    "streamUrl": "https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8",
     "logo": "https://i.imgur.com/xdnNAJn.png"
   },
   {
     "id": "thanthi-tv",
     "name": "Thanthi TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1612/master.m3u8",
     "logo": "https://i.imgur.com/200ROjU.png"
   },
   {
     "id": "thendral-tv",
     "name": "Thendral TV",
+    "streamUrl": "https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8",
     "logo": "https://i.imgur.com/kQK80gB.png"
   },
   {
     "id": "vaanavil-tv",
     "name": "Vaanavil TV",
+    "streamUrl": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
     "logo": "https://i.imgur.com/etr1k08.png"
   },
   {
     "id": "vasanth-tv",
     "name": "Vasanth TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1247/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png"
   },
   {
     "id": "vendhar-tv",
     "name": "Vendhar TV",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
     "logo": "https://i.imgur.com/okesED3.png"
   },
   {
     "id": "win-tv",
     "name": "Win TV",
+    "streamUrl": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
     "logo": "https://i.imgur.com/xQutJMq.png"
   }
 ]

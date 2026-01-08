@@ -2,185 +2,222 @@
   {
     "id": "9xm",
     "name": "9XM",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8",
     "logo": "https://i.imgur.com/F17QtN2.png"
   },
   {
     "id": "aastha",
     "name": "Aastha",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
     "logo": "https://i.imgur.com/IqgrV92.png"
   },
   {
     "id": "angel-tv-africa",
     "name": "Angel TV Africa",
+    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
     "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
     "id": "angel-tv-america",
     "name": "Angel TV America",
+    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
     "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
     "id": "ann-news",
     "name": "ANN News",
+    "streamUrl": "https://cdn.ottlive.co.in/annnews/index.m3u8",
     "logo": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png"
   },
   {
     "id": "b4u-movies-india",
     "name": "B4U Movies India",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
     "logo": "https://i.imgur.com/M9kMFJl.png"
   },
   {
     "id": "b4u-movies",
     "name": "B4U Movies",
+    "streamUrl": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
     "logo": "https://i.imgur.com/M9kMFJl.png"
   },
   {
     "id": "b4u-music",
     "name": "B4U Music",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
     "logo": "https://i.imgur.com/KSxPLJA.png"
   },
   {
     "id": "bada-khabar",
     "name": "Bada Khabar",
+    "streamUrl": "https://app.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
     "logo": "https://i.imgur.com/XiwygDJ.png"
   },
   {
     "id": "bharat-express",
     "name": "Bharat Express",
+    "streamUrl": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
     "logo": "https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png"
   },
   {
     "id": "big-tv",
     "name": "BIG TV",
+    "streamUrl": "https://cdn-1.pishow.tv/live/1059/master.m3u8",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/BiG_TV_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20180316124023"
   },
   {
     "id": "cvr-english",
     "name": "CVR English",
+    "streamUrl": "https://cdn-2.pishow.tv/live/425/master.m3u8",
     "logo": "https://i.imgur.com/k0WTQKi.png"
   },
   {
     "id": "cvr-health",
     "name": "CVR Health",
+    "streamUrl": "https://cdn-6.pishow.tv/live/395/master.m3u8",
     "logo": "https://i.imgur.com/bCyW32I.png"
   },
   {
     "id": "dd-news",
     "name": "DD News",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
     "logo": "https://i.imgur.com/H4f9R7n.png"
   },
   {
     "id": "dd-sports",
     "name": "DD Sports",
+    "streamUrl": "https://cdn-6.pishow.tv/live/13/master.m3u8",
     "logo": "https://i.imgur.com/J2Ky5OO.png"
   },
   {
     "id": "desi-channel",
-    "name": "Desi Channel"
+    "name": "Desi Channel",
+    "streamUrl": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8"
   },
   {
     "id": "dy-365",
     "name": "DY 365",
+    "streamUrl": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
     "logo": "https://i.imgur.com/8LZS3z6.png"
   },
   {
     "id": "et-now",
     "name": "ET Now",
+    "streamUrl": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
     "logo": "https://i.imgur.com/ueI0VwW.png"
   },
   {
     "id": "good-news-today",
     "name": "Good News Today",
+    "streamUrl": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
     "logo": "https://i.imgur.com/iMzUrb9.png"
   },
   {
     "id": "gubbare",
     "name": "Gubbare",
+    "streamUrl": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
     "logo": "https://i.imgur.com/Bvbf9o7.png"
   },
   {
     "id": "gujarat-first",
     "name": "Gujarat First",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8",
     "logo": "https://www.lyngsat.com/logo/tv/gg/gujarat-first-in.png"
   },
   {
     "id": "harvest-tv",
     "name": "Harvest TV",
+    "streamUrl": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8",
     "logo": "https://i.imgur.com/Aoq6mpT.png"
   },
   {
     "id": "hebron-tv",
     "name": "Hebron TV",
+    "streamUrl": "https://account20.livebox.co.in/charleshls/live.m3u8",
     "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512"
   },
   {
     "id": "hindu-dharmam",
     "name": "Hindu Dharmam",
+    "streamUrl": "https://cdn-1.pishow.tv/live/959/master.m3u8",
     "logo": "https://i.imgur.com/VL6O6Ck.png"
   },
   {
     "id": "history-tv18-hd",
     "name": "History TV18 HD",
+    "streamUrl": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
     "logo": "https://i.imgur.com/zNJKdRf.png"
   },
   {
     "id": "hmtv",
     "name": "HMTV",
+    "streamUrl": "https://cdn-1.pishow.tv/live/280/master.m3u8",
     "logo": "https://i.imgur.com/GJ52eFs.png"
   },
   {
     "id": "india-today",
     "name": "India Today",
+    "streamUrl": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
     "logo": "https://i.postimg.cc/bJ3J8d8z/indiatoday.png"
   },
   {
     "id": "inews",
     "name": "INews",
+    "streamUrl": "https://cdn-1.pishow.tv/live/411/master.m3u8",
     "logo": "https://i.imgur.com/IV1O11i.png"
   },
   {
     "id": "jonack-tv",
     "name": "Jonack TV",
+    "streamUrl": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
     "logo": "https://i.imgur.com/X2MU1lm.png"
   },
   {
     "id": "living-india-news",
     "name": "Living India News",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8",
     "logo": "https://i.imgur.com/YikaJvd.png"
   },
   {
     "id": "maha-movie",
     "name": "Maha Movie",
+    "streamUrl": "https://cdn-6.pishow.tv/live/10007/master.m3u8",
     "logo": "https://i.imgur.com/hpShFDL.png"
   },
   {
     "id": "media-one",
     "name": "Media One",
+    "streamUrl": "https://cdn-3.pishow.tv/live/1481/master.m3u8",
     "logo": "https://i.imgur.com/oOb7d7R.png"
   },
   {
     "id": "mirror-now",
     "name": "Mirror Now",
+    "streamUrl": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
     "logo": "https://i.imgur.com/N96LwKG.png"
   },
   {
     "id": "wion-adaptive",
     "name": "WION (Adaptive)",
+    "streamUrl": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
     "logo": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "id": "wion",
     "name": "WION",
+    "streamUrl": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "logo": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "id": "zb-cartoon",
     "name": "ZB Cartoon",
+    "streamUrl": "https://server.zillarbarta.com/zbcatun/video.m3u8",
     "logo": "https://i.imgur.com/BbFNpMr.jpeg"
   },
   {
     "id": "zoom-global",
     "name": "Zoom Global",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8",
     "logo": "https://i.imgur.com/kcDJ4g0.png"
   }
 ]
