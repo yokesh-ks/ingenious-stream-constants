@@ -2,7 +2,7 @@
   "id": "vasanth-tv",
   "name": "Vasanth TV",
   "categoryId": "entertainment",
-  "streamUrl": "https://cdn-3.pishow.tv/live/1247/master.m3u8",
+  "streamUrl": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist_b250.m3u8",
   "tvgId": "VasanthTV.in@SD",
   "isActive": true,
   "language": "tamil",
