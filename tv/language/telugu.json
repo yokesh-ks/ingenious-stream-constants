@@ -18,12 +18,6 @@
     "logo": "https://i.imgur.com/dZA4gel.png"
   },
   {
-    "id": "aastha-telugu",
-    "name": "Aastha Telugu",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/P0IIqZn.png"
-  },
-  {
     "id": "abn-andhra-jyoti",
     "name": "ABN Andhra Jyoti",
     "streamUrl": "https://cdn-1.pishow.tv/live/407/master.m3u8",

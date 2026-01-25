@@ -4,7 +4,7 @@
   "categoryId": "devotional",
   "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
   "tvgId": "AasthaKannada.in@SD",
-  "isActive": true,
+  "isActive": false,
   "language": "kannada",
   "logo": "https://i.imgur.com/wP9q0KZ.png"
 }

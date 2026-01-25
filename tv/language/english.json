@@ -6,24 +6,6 @@
     "logo": "https://i.imgur.com/F17QtN2.png"
   },
   {
-    "id": "aastha",
-    "name": "Aastha",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
-    "logo": "https://i.imgur.com/IqgrV92.png"
-  },
-  {
-    "id": "angel-tv-africa",
-    "name": "Angel TV Africa",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-america",
-    "name": "Angel TV America",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
     "id": "ann-news",
     "name": "ANN News",
     "streamUrl": "https://cdn.ottlive.co.in/annnews/index.m3u8",

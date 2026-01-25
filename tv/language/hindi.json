@@ -18,18 +18,6 @@
     "logo": "https://i.imgur.com/RpIdCB3.png"
   },
   {
-    "id": "aastha-bhajan",
-    "name": "Aastha Bhajan",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/LyDxqnF.png"
-  },
-  {
-    "id": "aastha-prime-1",
-    "name": "Aastha Prime 1",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
-    "logo": "https://i.imgur.com/LyWSMJS.png"
-  },
-  {
     "id": "abp-news",
     "name": "ABP News",
     "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
@@ -40,72 +28,6 @@
     "name": "Abzy Dhakad",
     "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
     "logo": "https://i.imgur.com/5ORC4tn.png"
-  },
-  {
-    "id": "angel-tv-arabia",
-    "name": "Angel TV Arabia",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-australia",
-    "name": "Angel TV Australia",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-chinese",
-    "name": "Angel TV Chinese",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-europe",
-    "name": "Angel TV Europe",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-512011/europe/ngrp:angeleurope_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-fareast",
-    "name": "Angel TV FarEast",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-438760/fareast/ngrp:angelfareast_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-hebrew",
-    "name": "Angel TV Hebrew",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-indo-china",
-    "name": "Angel TV Indo-China",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-indonesia",
-    "name": "Angel TV Indonesia",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-portuguese",
-    "name": "Angel TV Portuguese",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-russian",
-    "name": "Angel TV Russian",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-spanish",
-    "name": "Angel TV Spanish",
-    "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
     "id": "aradana-tv",
@@ -919,12 +841,6 @@
     "name": "VBC News",
     "streamUrl": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
     "logo": "https://i.imgur.com/SvXCjha.png"
-  },
-  {
-    "id": "vedic",
-    "name": "Vedic",
-    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/IuuzdLq.png"
   },
   {
     "id": "venad-news",

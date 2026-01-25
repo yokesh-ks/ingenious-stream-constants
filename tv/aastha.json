@@ -4,7 +4,7 @@
   "categoryId": "devotional",
   "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
   "tvgId": "Aastha.in@SD",
-  "isActive": true,
+  "isActive": false,
   "language": "english",
   "logo": "https://i.imgur.com/IqgrV92.png"
 }
